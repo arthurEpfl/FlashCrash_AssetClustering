@@ -1,0 +1,15 @@
+pandas
+numpy
+polars
+matplotlib
+datetime  # datetime does not require an installation as it is part of the Python standard library
+typing    # typing is also part of the Python standard library
+os        # os is part of the Python standard library
+itertools # itertools is part of the Python standard library
+intervaltree
+networkx
+scikit-learn
+python-louvain
+argparse  # argparse is part of the Python standard library
+pickle    # pickle is part of the Python standard library
+json      # json is part of the Python standard library
