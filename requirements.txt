@@ -6,3 +6,4 @@ intervaltree
 networkx
 scikit-learn
 python-louvain
+pyarrow
