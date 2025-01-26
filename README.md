@@ -1,6 +1,9 @@
 # bigData
 
-First create an environnement with the requirements.txt
+First create an environnement :
+conda create --name test_env python=3.9
+
+
 
 Steps to get the resulting clusters from our analysis in the juypter notebook : 
 - Go to drive :  https://drive.google.com/drive/folders/1GOjfOQzDX0sPl-huZJgGX2NFV5F1rGdw?dmr=1&ec=wgc-drive-globalnav-goto&hl=fr
