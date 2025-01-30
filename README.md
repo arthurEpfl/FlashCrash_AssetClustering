@@ -1,5 +1,8 @@
 # bigData
 
+Project in the context of FIN-525 Financial Big Data course.
+Read the Financial_Big_Data_report.pdf for a comprehensive understanding of methods used and results obtained.
+
 First create an environnement :
 - conda create --name test_env python=3.9
 - conda activate test_env
